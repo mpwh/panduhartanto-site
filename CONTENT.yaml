@@ -1,0 +1,97 @@
+# ============================================================
+# CONTENT.yaml — panduhartanto.com
+# Edit this file to update the website. Donna handles the rest.
+# ============================================================
+
+# ── 0. IDENTITY ─────────────────────────────────────────────
+identity:
+  name: "Pandu Hartanto"
+  tagline: "Founder. Operator. Building for the next generation."
+  bio: |
+    I build companies at the intersection of technology and purpose.
+    Currently focused on Kareem — a productive waqf holding company
+    designed to generate returns for education, indefinitely.
+    Based in Jakarta, Indonesia.
+
+# ── 1. WHAT I'M DOING NOW ───────────────────────────────────
+now:
+  updated: "March 2026"
+  items:
+    - role: "CEO"
+      org: "Kareem"
+      url: ""
+      description: "Building Indonesia's first productive waqf holding company. Kareem Studios (software agency) and Kareem Ventures (connecting capital to social-benefit businesses)."
+    - role: "Co-Founder"
+      org: "Etalas"
+      url: ""
+      description: "B2B SaaS for Southeast Asian businesses. Finance dashboard, boilerplate tools, and the infrastructure that keeps the lights on."
+    - role: "OpenClaw Consultant"
+      org: "Independent"
+      url: "https://openclaw-consulting.netlify.app"
+      description: "Helping executives deploy AI agents that actually work — not demos, but running systems."
+
+# ── 1a. HIGHLIGHTS — Projects, Notes, Thoughts ──────────────
+highlights:
+  - title: "NVIDIA NeMo & the Indonesia AI Opportunity"
+    type: "research"
+    date: "March 2026"
+    description: "Why the NeMo/NIM stack + Indonesia's sovereign AI push = a defensible consulting niche. Full strategic brief."
+    url: ""
+  - title: "Kareem — What a Productive Waqf Actually Looks Like"
+    type: "thought"
+    date: "2026"
+    description: "Notes on building a company where the shares themselves are endowed. The structure, the why, and what cross-generational actually means."
+    url: ""
+  - title: "OpenClaw vs Hermes Agent"
+    type: "research"
+    date: "March 2026"
+    description: "A complete comparison of the two leading open-source AI agent frameworks. Where each wins and when to switch."
+    url: ""
+
+# ── 2. FIND ME ONLINE ───────────────────────────────────────
+social:
+  - label: "LinkedIn"
+    url: "https://linkedin.com/in/panduhartanto"
+    icon: "linkedin"
+  - label: "X / Twitter"
+    url: "https://twitter.com/mpwh"
+    icon: "twitter"
+  - label: "GitHub"
+    url: "https://github.com/mpwh"
+    icon: "github"
+  - label: "OpenClaw Consulting"
+    url: "https://openclaw-consulting.netlify.app"
+    icon: "link"
+
+# ── 3. BACKGROUND ───────────────────────────────────────────
+experience:
+  - title: "CEO"
+    org: "Kareem"
+    period: "2024 – present"
+    description: "Founding and operating Indonesia's first productive waqf holding company."
+  - title: "Co-Founder & CTO → CEO"
+    org: "Etalas"
+    period: "2022 – present"
+    description: "B2B SaaS platform for Southeast Asian SMEs and enterprises."
+  - title: "Founder"
+    org: "BWN Tech / Independent"
+    period: "2021 – 2022"
+    description: "Solo and consulting work across product, tech strategy, and early-stage ventures."
+  - title: "Engineering & Product"
+    org: "Gojek"
+    period: "~2018 – 2020"
+    description: "Built and scaled product at one of Southeast Asia's largest super-apps."
+  - title: "Growth & Operations"
+    org: "Veritrans (now Midtrans)"
+    period: "~2014 – 2018"
+    description: "Helped grow Veritrans into Indonesia's leading payment gateway. Later acquired by GoTo."
+  - title: "RumahKisah"
+    org: "RumahKisah"
+    period: "2020 – 2022"
+    description: "Two years building in the Islamic content and education space."
+
+education:
+  - degree: "Computer Science / Engineering"
+    institution: "Update this with your actual degree + university"
+    period: ""
+    note: "Edit CONTENT.yaml to fill this in."
