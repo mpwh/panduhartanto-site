@@ -6,29 +6,29 @@
 # ── 0. IDENTITY ─────────────────────────────────────────────
 identity:
   name: "Pandu Hartanto"
-  tagline: "Founder. Operator. Building for the next generation."
+  tagline: "Co-Founder at Etalas. Building Kareem on the side."
   bio: |
-    I build companies at the intersection of technology and purpose.
-    Currently focused on Kareem — a productive waqf holding company
-    designed to generate returns for education, indefinitely.
-    Based in Jakarta, Indonesia.
+    I'm a builder and operator based in Jakarta, Indonesia.
+    Day job: Co-Founder at Etalas, a B2B SaaS company for Southeast Asian businesses.
+    Long-term project: Kareem, a productive waqf holding company I'm building
+    for the next generation — slowly, deliberately, for the long run.
 
 # ── 1. WHAT I'M DOING NOW ───────────────────────────────────
 now:
   updated: "March 2026"
   items:
-    - role: "CEO"
-      org: "Kareem"
-      url: ""
-      description: "Building Indonesia's first productive waqf holding company. Kareem Studios (software agency) and Kareem Ventures (connecting capital to social-benefit businesses)."
     - role: "Co-Founder"
       org: "Etalas"
       url: ""
-      description: "B2B SaaS for Southeast Asian businesses. Finance dashboard, boilerplate tools, and the infrastructure that keeps the lights on."
+      description: "Building B2B SaaS for Southeast Asian businesses — finance dashboard, internal tools, and product infrastructure for founders and operators."
     - role: "OpenClaw Consultant"
       org: "Independent"
       url: "https://openclaw-consulting.netlify.app"
-      description: "Helping executives deploy AI agents that actually work — not demos, but running systems."
+      description: "Helping executives deploy AI agents that actually work — not demos, but running systems built for how they actually work."
+    - role: "CEO"
+      org: "Kareem"
+      url: ""
+      description: "A long-term side project: building a productive waqf holding company designed to generate returns for education, indefinitely. Not in a hurry. Just building it right."
 
 # ── 1a. HIGHLIGHTS — Projects, Notes, Thoughts ──────────────
 highlights:
