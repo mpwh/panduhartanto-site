@@ -6,12 +6,12 @@
 # ── 0. IDENTITY ─────────────────────────────────────────────
 identity:
   name: "Pandu Hartanto"
-  tagline: "Co-Founder at Etalas. Building Kareem on the side."
+  tagline: "I build software companies in Southeast Asia."
   bio: |
-    I'm a builder and operator based in Jakarta, Indonesia.
-    Day job: Co-Founder at Etalas, a B2B SaaS company for Southeast Asian businesses.
-    Long-term project: Kareem, a productive waqf holding company I'm building
-    for the next generation — slowly, deliberately, for the long run.
+    Co-founder of Etalas, an AI-first product development agency.
+    Alongside that, I'm building Kareem — a productive waqf holding company
+    structured to serve education for generations.
+    Based in Jakarta. Working slowly on things that matter.
 
 # ── 1. WHAT I'M DOING NOW ───────────────────────────────────
 now:
@@ -19,33 +19,33 @@ now:
   items:
     - role: "Co-Founder"
       org: "Etalas"
-      url: ""
-      description: "Building B2B SaaS for Southeast Asian businesses — finance dashboard, internal tools, and product infrastructure for founders and operators."
-    - role: "OpenClaw Consultant"
-      org: "Independent"
-      url: "https://openclaw-consulting.netlify.app"
-      description: "Helping executives deploy AI agents that actually work — not demos, but running systems built for how they actually work."
+      url: "https://etalas.com"
+      description: "An AI-first product development agency. We help founders and operators build software that actually ships — not prototypes, but products people use."
     - role: "CEO"
       org: "Kareem"
       url: ""
-      description: "A long-term side project: building a productive waqf holding company designed to generate returns for education, indefinitely. Not in a hurry. Just building it right."
+      description: "A productive waqf holding company. The structure is unusual: shares are permanently endowed, profits flow to education, and the company is designed to outlast its founders. I'm building it deliberately, not in a hurry."
+    - role: "OpenClaw Consultant"
+      org: "Independent"
+      url: "https://openclaw-consulting.netlify.app"
+      description: "I help executives deploy AI agents that work in production — connected to real tools, running real workflows. Not a demo. Something that runs."
 
 # ── 1a. HIGHLIGHTS — Projects, Notes, Thoughts ──────────────
 highlights:
   - title: "NVIDIA NeMo & the Indonesia AI Opportunity"
     type: "research"
     date: "March 2026"
-    description: "Why the NeMo/NIM stack + Indonesia's sovereign AI push = a defensible consulting niche. Full strategic brief."
+    description: "Why the NeMo/NIM stack and Indonesia's sovereign AI push create a defensible local niche. A full strategic brief."
     url: ""
-  - title: "Kareem — What a Productive Waqf Actually Looks Like"
+  - title: "What a Productive Waqf Actually Looks Like"
     type: "thought"
     date: "2026"
-    description: "Notes on building a company where the shares themselves are endowed. The structure, the why, and what cross-generational actually means."
+    description: "Notes on building a company where the shares themselves are endowed. The structure, the why, and what cross-generational really means in practice."
     url: ""
   - title: "OpenClaw vs Hermes Agent"
     type: "research"
     date: "March 2026"
-    description: "A complete comparison of the two leading open-source AI agent frameworks. Where each wins and when to switch."
+    description: "A complete comparison of the two leading open-source AI agent frameworks. Where each wins, and when it makes sense to switch."
     url: ""
 
 # ── 2. FIND ME ONLINE ───────────────────────────────────────
@@ -59,39 +59,45 @@ social:
   - label: "GitHub"
     url: "https://github.com/mpwh"
     icon: "github"
+  - label: "Etalas"
+    url: "https://etalas.com"
+    icon: "link"
   - label: "OpenClaw Consulting"
     url: "https://openclaw-consulting.netlify.app"
     icon: "link"
 
 # ── 3. BACKGROUND ───────────────────────────────────────────
 experience:
+  - title: "Co-Founder"
+    org: "Etalas"
+    period: "2022 – present"
+    description: "AI-first product development agency for founders and operators in Southeast Asia."
   - title: "CEO"
     org: "Kareem"
     period: "2024 – present"
-    description: "Founding and operating Indonesia's first productive waqf holding company."
-  - title: "Co-Founder & CTO → CEO"
-    org: "Etalas"
-    period: "2022 – present"
-    description: "B2B SaaS platform for Southeast Asian SMEs and enterprises."
+    description: "Productive waqf holding company. Two subsidiaries: Kareem Studios (software agency) and Kareem Ventures (connecting capital to social-benefit businesses)."
+  - title: "OpenClaw Consultant"
+    org: "Independent"
+    period: "2025 – present"
+    description: "Helping executives deploy AI agents that run in production."
   - title: "Founder"
-    org: "BWN Tech / Independent"
+    org: "BWN Tech"
     period: "2021 – 2022"
-    description: "Solo and consulting work across product, tech strategy, and early-stage ventures."
-  - title: "Engineering & Product"
-    org: "Gojek"
-    period: "~2018 – 2020"
-    description: "Built and scaled product at one of Southeast Asia's largest super-apps."
-  - title: "Growth & Operations"
-    org: "Veritrans (now Midtrans)"
-    period: "~2014 – 2018"
-    description: "Helped grow Veritrans into Indonesia's leading payment gateway. Later acquired by GoTo."
-  - title: "RumahKisah"
+    description: "Solo and consulting work across product strategy and early-stage ventures."
+  - title: "Co-Founder"
     org: "RumahKisah"
     period: "2020 – 2022"
-    description: "Two years building in the Islamic content and education space."
+    description: "Islamic content and education platform."
+  - title: "Engineering & Product"
+    org: "Gojek"
+    period: "2018 – 2020"
+    description: "Built and scaled products at one of Southeast Asia's largest super-apps."
+  - title: "Early Team"
+    org: "Veritrans (now Midtrans)"
+    period: "2014 – 2018"
+    description: "Helped grow Veritrans into Indonesia's leading payment gateway. Later acquired by GoTo."
 
 education:
-  - degree: "Computer Science / Engineering"
-    institution: "Update this with your actual degree + university"
+  - degree: "Computer Science"
+    institution: "Bina Nusantara University"
     period: ""
-    note: "Edit CONTENT.yaml to fill this in."
